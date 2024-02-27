@@ -10,6 +10,17 @@ LeanCode introduces arb_translate, a user-friendly command-line tool, leveraging
 
 For detailed process documentation, please explore the comprehensive guide at the provided [link](https://medium.com/@dtejaswini.06/simplifying-app-localization-in-flutter-with-arb-translate-a-beginners-guide-afda9e7267ff)
 
+## Outcome
+
+**Translating Terms for locale hi**
+
+![Screen Recording 2024-02-25 at 8 53 05 AM](https://github.com/tejaswini-dev-techie/flutter_localization_with_arb_translate/assets/79466038/c0ceb9c8-57b9-4263-96b8-b350ee4e9d5f)
+
+**Translation Workflow**
+
+![Screenrecorder-2024-02-25-08-32-16-283](https://github.com/tejaswini-dev-techie/flutter_localization_with_arb_translate/assets/79466038/6e762323-261c-48a9-bf2b-bdbc51ca7300)
+
+
 ## Conclusion
 
 Unlock the global potential of your Flutter apps! With LeanCode’s arb_translate tool and Google Gemini API, streamline localization effortlessly. Engage users worldwide and expand your app's reach. Simplify, localize, succeed!
