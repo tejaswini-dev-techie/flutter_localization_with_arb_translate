@@ -10,6 +10,16 @@ LeanCode introduces arb_translate, a user-friendly command-line tool, leveraging
 
 For detailed process documentation, please explore the comprehensive guide at the provided [link](https://medium.com/@dtejaswini.06/simplifying-app-localization-in-flutter-with-arb-translate-a-beginners-guide-afda9e7267ff)
 
+> [!WARNING]
+> If you encounter any issues as described below:
+> 1. Pub installs executables into $HOME/.pub-cache/bin, which is not on your path.
+> 2. zsh: command not found: arb_translate
+> 
+> This can be resolved by adding the following line to your shell's configuration file (.bashrc, .bash_profile, etc.):
+> 
+> ```export PATH="$PATH:$HOME/.pub-cache/bin"```
+
+
 ## Outcome
 
 **Translating Terms for locale hi**
